@@ -24,4 +24,6 @@
    jmeter -n -t path/to/load_test_plan.jmx -l path/to/results.jtl
 
  ## Test Report
-   
+![image](https://github.com/Fayrose96/Random-User-API-Performance-Test/assets/143695839/9bf67b02-37fe-4513-b0b0-9ba327e32eee)
+![image](https://github.com/Fayrose96/Random-User-API-Performance-Test/assets/143695839/2a81f131-9bce-4ffb-b7c6-f653d08374ce)
+
