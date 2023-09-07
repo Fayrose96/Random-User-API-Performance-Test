@@ -1,7 +1,7 @@
 # Random-User-API-Performance-Test
 
 ## About this project:
-### This project demonstrates how to perform load testing and stress testing using Apache JMeter. Our goal is to evaluate the performance of the web application named (Random data API) under various load conditions and identify the stress points/bottleneck point.
+### This project demonstrates how to perform load testing and stress testing using Apache JMeter. Our goal is to evaluate the web application named (Random Data API)  performance under various load conditions and identify the stress points/bottleneck points.
 
 ## Prerequisites
 - JMeter 5.6.2
@@ -13,7 +13,7 @@
   
 ### Configuration
 1. Open JMeter.
-2. Load the provided test plan (`load_test_plan.jmx`) into JMeter.
+2. Load the provided test plan into JMeter.
 3. Configure test variables and endpoints as needed in the test plan.
    
 ## Running the Tests
@@ -24,4 +24,4 @@
    jmeter -n -t path/to/load_test_plan.jmx -l path/to/results.jtl
 
  ## Test Report
-   ![DMoneyJmeterReport](https://github.com/Fayrose96/demo-transaction-api-jmeter/assets/143695839/f6ccadfb-89c3-4ab1-8626-840cd47e464e)
+   
